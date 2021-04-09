@@ -1,7 +1,8 @@
 {
   "name": "yeye 自用 Task",
   "task": [
-    "30 10,14,16 * * * https://raw.githubusercontent.com/MCyeyeye/Quantumultx/main/Task/jd_try.js, tag=Ye京东试用(取关200个店铺再用), img-url=square.and.arrow.up.system, enabled=true"
+    "30 10,14,16 * * * https://raw.githubusercontent.com/MCyeyeye/Quantumultx/main/Task/jd_try.js, tag=Ye京东试用(取关200个店铺再用), img-url=square.and.arrow.up.system, enabled=true",
+    "*/10 * * * * https://raw.githubusercontent.com/MCyeyeye/Quantumultx/main/Task/monk_pasture.js, tag=Ye京东有机牧场, img-url=square.and.arrow.up.system, enabled=true"
   ],
   "description": "QuantumultX 天下第一"
 }
