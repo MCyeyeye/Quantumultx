@@ -1,7 +1,7 @@
 let cookiesArr = [], cookie = '';
 let time=0;//延时毫秒
 //这个脚本需要用到的是pc端的ck，目前要使用需要去软件中的扫码获取pc端ck那里获取，获取到后不用管那个ck已失效的提示，ck已经复制到剪辑版了，直接粘贴进来就是
-cookiesArr=['cookie1','cookie2(依次内推，单账号可删除这个)'];
+cookiesArr=['cookie1','cookie2'];
 
 //店铺Id列表
 let shopIds=[];
